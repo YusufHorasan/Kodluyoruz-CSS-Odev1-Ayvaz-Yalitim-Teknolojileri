@@ -1,0 +1,201 @@
+/* body */
+
+body {
+    background-image: url("http://www.ayvazyalitim.com/assets/img/bg/square_bg.png");
+    background-color: efefef;
+    /* opacity: 0.3; */
+}
+
+/* body */
+
+/* Container */
+
+.Container {
+    margin: 50px auto;
+    width: 1000px;
+    background-color: white;
+    opacity: 1.0;
+}
+
+.Box {
+    /* height: 500px; */
+    width: 1000px;
+    /* margin: 5px auto; */
+    /* margin-top: 5px auto; */
+    /* margin-bottom: 5px; */
+    /* margin-left: 50px auto;
+    margin-right: 50px auto; */
+}
+
+#Header {
+    height: 100px;
+    margin: 50px, 50px, 50px, 50px;
+}
+
+#Content {
+    height: 1400px;
+    margin: 50px, 50px, 50px, 50px;
+}
+
+#Footer {
+    height: 380px;
+    margin: 50px, 50px, 50px, 50px;
+    background-color: #464646;
+}
+
+/* Container */
+
+/* Header */
+
+.h1 {
+    color: #282828;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight:normal;
+    font-family: inherit;
+}
+
+.h3 {
+    color: #282828;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 600;
+    font-family: inherit;
+    margin: 0 0 20px;
+}
+
+.h4 {
+    color: black;
+    font-size: 16px;
+}
+
+.footer-h4 {
+    line-height: 1.2;
+    font-weight: 600;
+    font-family: inherit;
+    font-size: 15px;
+    color: #fff;
+}
+
+/* Header */
+
+/* Link */
+
+a {
+    color: #686868;
+    text-decoration: none;
+}
+
+.Content-Baglanti {
+    color: red;
+    font-weight: bold;
+}
+
+#Navbar {
+    text-align: right;
+    font-size: 14px;
+    
+    /* font-size:small; */
+}
+
+/* Link */
+
+/* p */
+
+.Main-p {
+    color: #686868;
+    font: 13px/1.8 'Open Sans',Arial,Helvetica,sans-serif;
+    width: 400px;
+    word-wrap: break-word;
+}
+
+.Footer-p {
+    font-size: 12px;
+    color: #ddd;
+    margin: 0 0 20px;
+}
+
+/* p */
+
+#Banner-Article {
+    text-align:left;
+    width: 1000px;
+    word-wrap:break-word;
+    color: #686868;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+#Main-Article {
+    color: #686868;
+    font-size: 16px;
+}
+
+#Footer-Article {
+    /* background-color: black; */
+    color: #ddd;
+    width: 300px;
+    border:1px solid #464646;
+    word-wrap:break-word;
+    line-height: 1.6;
+    font-size: 12px;
+}
+
+/* #Footer {
+    background-color: #464646;
+} */
+
+/* .kutu-1 {
+    width:400px;
+    height:250px;
+    background: #464646;
+}
+
+.kutu-2 {
+    width:400px;
+    height:250px;
+    background: #464646;
+}
+
+.kutu-3 {
+    width:400px;
+    height:250px;
+    background: #464646;
+} */
+
+.float-l {
+    float: left;
+}
+
+.float-r {
+    float: right;
+}
+
+/* .float-c {
+    float:;
+} */
+
+#Referanslarimiz-Article {
+    font-size: 14px;
+}
+
+#Footer-Navbar {
+    text-align: right;
+    font-size: 14px;
+    background-color: #3d3d3d;
+   /* font-size:small; */
+}
+
+.Footer-Navbar {
+    color: white;
+}
+
+/* Image */
+
+.Image {
+    background: transparent;
+    padding: 8px;
+    border: 1px solid #999999;
+}
+
+/* Image */
